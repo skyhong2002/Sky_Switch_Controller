@@ -1,0 +1,10 @@
+{
+  "BTN_START": 9,
+  "BTN_MODE": 12,
+  "('BTN_WEST', 'BTN_Y')": 3,
+  "('BTN_B', 'BTN_EAST')": 1,
+  "('BTN_NORTH', 'BTN_X')": 2,
+  "('BTN_A', 'BTN_GAMEPAD', 'BTN_SOUTH')": 0,
+  "BTN_TL2": 5,
+  "BTN_TL": 4
+}

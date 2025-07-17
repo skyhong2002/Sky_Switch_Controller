@@ -1,0 +1,10 @@
+{
+  "BTN_TR2": 5,
+  "BTN_TR": 4,
+  "BTN_Z": 13,
+  "BTN_SELECT": 8,
+  "BTN_DPAD_DOWN": 2,
+  "BTN_DPAD_RIGHT": 3,
+  "BTN_DPAD_UP": 0,
+  "BTN_DPAD_LEFT": 1
+}
